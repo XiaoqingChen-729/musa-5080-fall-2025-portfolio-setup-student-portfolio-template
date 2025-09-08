@@ -15,7 +15,7 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[11111111111Hi, this is Xiaoqing Chen, or just call me Kelsey. My undergraduate major is Architecture, and now i'm a MUSA student at Upenn. I'm intereseted in Data Analytics more than City Planning & Architecture Design, so i think that's the main reason why i choose this project. Hope i can learn more about coding from this courese. Nervertheless, the professor of this course is so humorous which make learning becoming more interesting.]
+[-Hi, this is Xiaoqing Chen, or just call me Kelsey. My undergraduate major is Architecture, and now i'm a MUSA student at Upenn. I'm intereseted in Data Analytics more than City Planning & Architecture Design, so i think that's the main reason why i choose this project. Hope i can learn more about coding from this courese. Nervertheless, the professor of this course is so humorous which make learning becoming more interesting.]
 
 ## Contact
 - Email: [chen007@upenn.edu]
