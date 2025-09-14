@@ -4,20 +4,21 @@ date: "2025-09-08"
 ---
 
 ## Key Concepts Learned
-- [List main concepts from lecture]
-- [Technical skills covered]
+- [Repo-commit-push-pull]
+- [What is Github? -Cloud hosting for Git repositiories]
 
 ## Coding Techniques
-- [New R functions or approaches]
-- [Quarto features learned]
+- [head, names, select, mutate, filter]
+- [group-by and summarize]
 
 ## Questions & Challenges
-- [What I didn't fully understand]
-- [Areas needing more practice]
+- [How to add pictures into the website?]
+- [How to figure out 404 website]
 
 ## Connections to Policy
 - [How this week's content applies to real policy work]
 
 ## Reflection
-- [What was most interesting]
-- [How I'll apply this knowledge]
+- [The humorous teaching method]
+- [Fun to work with my group & PPA is great]
+- [Weekly notes are written on my notebook]
